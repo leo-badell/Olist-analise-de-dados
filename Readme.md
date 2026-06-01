@@ -54,7 +54,7 @@ python -m venv .venv
 #### 3. Instale as dependências
 
 ```bash
-pip install ipykernel pandas
+pip install ipykernel 
 ```
 
 > O `ipykernel` é obrigatório para que o VS Code consiga conectar os notebooks ao Python do ambiente virtual.
